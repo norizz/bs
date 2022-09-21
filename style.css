@@ -1,12 +1,5 @@
-H1 {
-  color: #060607;
-  font-size: 200%;
-  font-family: century , century , century , century;
-  text-align: center;
-}
-P {
-  padding-left: 20px;
-}
-.name {
-	font: ы
+.h1 {
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 50px; 
 }
