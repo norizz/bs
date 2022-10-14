@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+	background-image: url(back.png);
+	height:1700px;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	font-family: 'Comforter Brush', cursive;
+    font-family: 'Playfair Display', serif;
+}
+.h-photo {
+	text-align: center;
+	padding-top: 150px;
+}
+.photo {
+	width: 270px;
+	height: 300px;
+}
+.des {
+	font-family: 'Comforter Brush', cursive;
+    color:#92000A;
+    text-align: center;
+}
+.author {
+	font-size: 70px;
+    text-shadow: 0px 1px 6px black;   
+}
+.album {
+	text-decoration: none;
+	font-size: 50px;
+	text-shadow: 0px 1px 26px black; 
+
+}
+
+.song-items {
+	padding-top: 30px;
+	text-align: left;
+	margin-bottom: 10px;
+	margin-left: 400px;
+}
+.song {
+    font-family: 'Playfair Display', serif;
+	text-decoration: none;
+	color:#92000A;
+	font-size: 30px;
+}
